@@ -1,4 +1,4 @@
-# Object-Detection
+# Object-Detection for Crime Scene Suirveillance
 Custom yolov5 crime detection model. Detects weapons, people, classifies a person and a weapon as a criminal.
 
 Check out the notebook
